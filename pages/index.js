@@ -1,6 +1,5 @@
 import Head from 'next/head'
 import Image from 'next/image'
-import Link from 'next/link'
 import styles from '../styles/Home.module.css'
 
 export default function Home() {
@@ -12,19 +11,7 @@ export default function Home() {
         <link rel="icon" href="/logo.svg" />
       </Head>
 
-      <nav className={styles.mainnav}>
-        <div className={styles.navlogo}>
-          <img src="/logo.svg" alt="" />
-          <h3>Questionpaperz.com</h3>
-        </div>
-        <ul>
-          <Link href='/'><li><a>Home</a></li></Link>
-          <Link href='/stateboards'><li><a>State Boards</a></li></Link>
-          <Link href='/universities'><li><a>Universities</a></li></Link>
-          <Link href='/entranceexam'><li><a>Entrance Exams</a></li></Link>
-          <Link href='/notes'><li><a>Notes</a></li></Link>
-        </ul>
-      </nav>
+      
       <main className={styles.main}>
         <div className={styles.intro_page}>
           <div className={styles.searchbar}>
@@ -36,7 +23,7 @@ export default function Home() {
           <div className={styles.introtext}>
             <div className={styles.headtext}>
               <h1>We Provide </h1>
-              <p>State Board, University and Entrance Exam Previous Year Questions papers with Answers.</p>
+              <p>State Boards, Universities and Entrance Exams Previous Years Questions papers with Answers.</p>
             </div>
             <div className={styles.coverimg}>
               <img src="/coverimg2.svg" alt="" />
