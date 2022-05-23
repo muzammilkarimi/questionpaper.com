@@ -1,7 +1,9 @@
 .container {
   padding: 0 2rem;
 }
-
+.heading{
+  margin: 70px 0px;
+}
 .main {
   min-height: 100vh;
   padding: 5rem 0;
@@ -114,7 +116,7 @@
 }
 .searchbar {
   display: flex;
-  cursor: pointer;
+  /* cursor: pointer; */
   justify-content: center;
 }
 .side {
@@ -123,6 +125,7 @@
   justify-content: center;
   width: 110px;
   height: 60px;
+  cursor: pointer;
 
   /* secondary color */
 
@@ -149,13 +152,50 @@
   width: 464px;
   font-size: x-large;
 }
-.headtext h1{
+.headtext h1 {
   font-size: xxx-large;
 }
-.headtext{
+.headtext {
   width: 575px;
   margin-right: 30px;
 }
+.sblogo img {
+  width: 144px;
+  height: 144px;
+}
+.sbs {
+  text-align: center;
+  margin: 15px 66px;
+}
+.stateboard {
+  display: flex;
+  flex-wrap: wrap;
+}
+.morebtn {
+  cursor: pointer;
+  margin-top: 10px;
+  text-align: center;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  width: 289px;
+  height: 65px;
+  background: #e2e1df;
+  /* neomorphic 1 */
+
+  box-shadow: -10px -10px 20px #ffffff, 10px 10px 20px #9e9e9e;
+  border-radius: 15px;
+}
+.morebtn h2{
+  letter-spacing: 4px;
+  font-weight: lighter;
+
+}
+
+
+
+
+
 /* .grid {
   display: flex;
   align-items: center;
