@@ -1,7 +1,7 @@
-import Head from 'next/head'
-import Link from 'next/link'
-import Image from 'next/image'
-import styles from '../styles/Home.module.css'
+import Head from "next/head";
+import Link from "next/link";
+import Image from "next/image";
+import styles from "../styles/Home.module.css";
 
 export default function Home() {
   return (
@@ -12,11 +12,10 @@ export default function Home() {
         <link rel="icon" href="/logo.svg" />
       </Head>
 
-
       <main className={styles.main}>
         <div className={styles.intro_page}>
           <div className={styles.searchbar}>
-            <input type="text" placeholder='Search Any Questions Papers....' />
+            <input type="text" placeholder="Search Any Questions Papers...." />
             <div className={styles.side}>
               <img src="/searchicon.svg" alt="" className={styles.searchicon} />
             </div>
@@ -24,7 +23,10 @@ export default function Home() {
           <div className={styles.introtext}>
             <div className={styles.headtext}>
               <h1>We Provide </h1>
-              <p>State Boards, Universities and Entrance Exams Previous Years Questions papers with Answers.</p>
+              <p>
+                State Boards, Universities and Entrance Exams Previous Years
+                Questions papers with Answers.
+              </p>
             </div>
             <div className={styles.coverimg}>
               <img src="/coverimg2.svg" alt="" />
@@ -33,9 +35,19 @@ export default function Home() {
         </div>
         <h1 className={styles.heading}>STATE BOARDS</h1>
         <div className={styles.stateboard}>
+          <Link href="/state/BSEB Bihar School Examination Board, Patna">
+            <div className={styles.sbs}>
+              <div className={styles.sblogo}>
+                <img src="/BSEB-logo.png" alt="" />
+              </div>
+              <div className={styles.sbname}>
+                <h3>BSEB</h3>
+              </div>
+            </div>
+          </Link>
           <div className={styles.sbs}>
             <div className={styles.sblogo}>
-              <img src="/logo.svg" alt="" />
+              <img src="/BSEB-logo.png" alt="" />
             </div>
             <div className={styles.sbname}>
               <h3>BSEB</h3>
@@ -43,7 +55,7 @@ export default function Home() {
           </div>
           <div className={styles.sbs}>
             <div className={styles.sblogo}>
-              <img src="/logo.svg" alt="" />
+              <img src="/BSEB-logo.png" alt="" />
             </div>
             <div className={styles.sbname}>
               <h3>BSEB</h3>
@@ -51,7 +63,7 @@ export default function Home() {
           </div>
           <div className={styles.sbs}>
             <div className={styles.sblogo}>
-              <img src="/logo.svg" alt="" />
+              <img src="/BSEB-logo.png" alt="" />
             </div>
             <div className={styles.sbname}>
               <h3>BSEB</h3>
@@ -59,7 +71,7 @@ export default function Home() {
           </div>
           <div className={styles.sbs}>
             <div className={styles.sblogo}>
-              <img src="/logo.svg" alt="" />
+              <img src="/BSEB-logo.png" alt="" />
             </div>
             <div className={styles.sbname}>
               <h3>BSEB</h3>
@@ -67,7 +79,7 @@ export default function Home() {
           </div>
           <div className={styles.sbs}>
             <div className={styles.sblogo}>
-              <img src="/logo.svg" alt="" />
+              <img src="/BSEB-logo.png" alt="" />
             </div>
             <div className={styles.sbname}>
               <h3>BSEB</h3>
@@ -75,7 +87,7 @@ export default function Home() {
           </div>
           <div className={styles.sbs}>
             <div className={styles.sblogo}>
-              <img src="/logo.svg" alt="" />
+              <img src="/BSEB-logo.png" alt="" />
             </div>
             <div className={styles.sbname}>
               <h3>BSEB</h3>
@@ -83,7 +95,7 @@ export default function Home() {
           </div>
           <div className={styles.sbs}>
             <div className={styles.sblogo}>
-              <img src="/logo.svg" alt="" />
+              <img src="/BSEB-logo.png" alt="" />
             </div>
             <div className={styles.sbname}>
               <h3>BSEB</h3>
@@ -91,7 +103,7 @@ export default function Home() {
           </div>
           <div className={styles.sbs}>
             <div className={styles.sblogo}>
-              <img src="/logo.svg" alt="" />
+              <img src="/BSEB-logo.png" alt="" />
             </div>
             <div className={styles.sbname}>
               <h3>BSEB</h3>
@@ -99,29 +111,23 @@ export default function Home() {
           </div>
           <div className={styles.sbs}>
             <div className={styles.sblogo}>
-              <img src="/logo.svg" alt="" />
-            </div>
-            <div className={styles.sbname}>
-              <h3>BSEB</h3>
-            </div>
-          </div>
-          <div className={styles.sbs}>
-            <div className={styles.sblogo}>
-              <img src="/logo.svg" alt="" />
+              <img src="/BSEB-logo.png" alt="" />
             </div>
             <div className={styles.sbname}>
               <h3>BSEB</h3>
             </div>
           </div>
         </div>
-        <Link href="/stateboards"><div className={styles.morebtn}>
-          <h2>load more..</h2></div>
-          </Link>
+        <Link href="/stateboards">
+          <div className={styles.morebtn}>
+            <h2>load more..</h2>
+          </div>
+        </Link>
         <h1 className={styles.heading}>UNIVERSITIES</h1>
         <div className={styles.stateboard}>
           <div className={styles.sbs}>
             <div className={styles.sblogo}>
-              <img src="/logo.svg" alt="" />
+              <img src="/BSEB-logo.png" alt="" />
             </div>
             <div className={styles.sbname}>
               <h3>BSEB</h3>
@@ -129,7 +135,7 @@ export default function Home() {
           </div>
           <div className={styles.sbs}>
             <div className={styles.sblogo}>
-              <img src="/logo.svg" alt="" />
+              <img src="/BSEB-logo.png" alt="" />
             </div>
             <div className={styles.sbname}>
               <h3>BSEB</h3>
@@ -137,7 +143,7 @@ export default function Home() {
           </div>
           <div className={styles.sbs}>
             <div className={styles.sblogo}>
-              <img src="/logo.svg" alt="" />
+              <img src="/BSEB-logo.png" alt="" />
             </div>
             <div className={styles.sbname}>
               <h3>BSEB</h3>
@@ -145,7 +151,7 @@ export default function Home() {
           </div>
           <div className={styles.sbs}>
             <div className={styles.sblogo}>
-              <img src="/logo.svg" alt="" />
+              <img src="/BSEB-logo.png" alt="" />
             </div>
             <div className={styles.sbname}>
               <h3>BSEB</h3>
@@ -153,7 +159,7 @@ export default function Home() {
           </div>
           <div className={styles.sbs}>
             <div className={styles.sblogo}>
-              <img src="/logo.svg" alt="" />
+              <img src="/BSEB-logo.png" alt="" />
             </div>
             <div className={styles.sbname}>
               <h3>BSEB</h3>
@@ -161,7 +167,7 @@ export default function Home() {
           </div>
           <div className={styles.sbs}>
             <div className={styles.sblogo}>
-              <img src="/logo.svg" alt="" />
+              <img src="/BSEB-logo.png" alt="" />
             </div>
             <div className={styles.sbname}>
               <h3>BSEB</h3>
@@ -169,7 +175,7 @@ export default function Home() {
           </div>
           <div className={styles.sbs}>
             <div className={styles.sblogo}>
-              <img src="/logo.svg" alt="" />
+              <img src="/BSEB-logo.png" alt="" />
             </div>
             <div className={styles.sbname}>
               <h3>BSEB</h3>
@@ -177,7 +183,7 @@ export default function Home() {
           </div>
           <div className={styles.sbs}>
             <div className={styles.sblogo}>
-              <img src="/logo.svg" alt="" />
+              <img src="/BSEB-logo.png" alt="" />
             </div>
             <div className={styles.sbname}>
               <h3>BSEB</h3>
@@ -185,7 +191,7 @@ export default function Home() {
           </div>
           <div className={styles.sbs}>
             <div className={styles.sblogo}>
-              <img src="/logo.svg" alt="" />
+              <img src="/BSEB-logo.png" alt="" />
             </div>
             <div className={styles.sbname}>
               <h3>BSEB</h3>
@@ -193,21 +199,23 @@ export default function Home() {
           </div>
           <div className={styles.sbs}>
             <div className={styles.sblogo}>
-              <img src="/logo.svg" alt="" />
+              <img src="/BSEB-logo.png" alt="" />
             </div>
             <div className={styles.sbname}>
               <h3>BSEB</h3>
             </div>
           </div>
         </div>
-        <Link href="/universities"><div className={styles.morebtn}>
-          <h2 >load more..</h2></div>
-          </Link>
+        <Link href="/universities">
+          <div className={styles.morebtn}>
+            <h2>load more..</h2>
+          </div>
+        </Link>
         <h1 className={styles.heading}>ENTRANCE EXAMS</h1>
         <div className={styles.stateboard}>
           <div className={styles.sbs}>
             <div className={styles.sblogo}>
-              <img src="/logo.svg" alt="" />
+              <img src="/BSEB-logo.png" alt="" />
             </div>
             <div className={styles.sbname}>
               <h3>BSEB</h3>
@@ -215,7 +223,7 @@ export default function Home() {
           </div>
           <div className={styles.sbs}>
             <div className={styles.sblogo}>
-              <img src="/logo.svg" alt="" />
+              <img src="/BSEB-logo.png" alt="" />
             </div>
             <div className={styles.sbname}>
               <h3>BSEB</h3>
@@ -223,7 +231,7 @@ export default function Home() {
           </div>
           <div className={styles.sbs}>
             <div className={styles.sblogo}>
-              <img src="/logo.svg" alt="" />
+              <img src="/BSEB-logo.png" alt="" />
             </div>
             <div className={styles.sbname}>
               <h3>BSEB</h3>
@@ -231,7 +239,7 @@ export default function Home() {
           </div>
           <div className={styles.sbs}>
             <div className={styles.sblogo}>
-              <img src="/logo.svg" alt="" />
+              <img src="/BSEB-logo.png" alt="" />
             </div>
             <div className={styles.sbname}>
               <h3>BSEB</h3>
@@ -239,7 +247,7 @@ export default function Home() {
           </div>
           <div className={styles.sbs}>
             <div className={styles.sblogo}>
-              <img src="/logo.svg" alt="" />
+              <img src="/BSEB-logo.png" alt="" />
             </div>
             <div className={styles.sbname}>
               <h3>BSEB</h3>
@@ -247,7 +255,7 @@ export default function Home() {
           </div>
           <div className={styles.sbs}>
             <div className={styles.sblogo}>
-              <img src="/logo.svg" alt="" />
+              <img src="/BSEB-logo.png" alt="" />
             </div>
             <div className={styles.sbname}>
               <h3>BSEB</h3>
@@ -255,7 +263,7 @@ export default function Home() {
           </div>
           <div className={styles.sbs}>
             <div className={styles.sblogo}>
-              <img src="/logo.svg" alt="" />
+              <img src="/BSEB-logo.png" alt="" />
             </div>
             <div className={styles.sbname}>
               <h3>BSEB</h3>
@@ -263,7 +271,7 @@ export default function Home() {
           </div>
           <div className={styles.sbs}>
             <div className={styles.sblogo}>
-              <img src="/logo.svg" alt="" />
+              <img src="/BSEB-logo.png" alt="" />
             </div>
             <div className={styles.sbname}>
               <h3>BSEB</h3>
@@ -271,7 +279,7 @@ export default function Home() {
           </div>
           <div className={styles.sbs}>
             <div className={styles.sblogo}>
-              <img src="/logo.svg" alt="" />
+              <img src="/BSEB-logo.png" alt="" />
             </div>
             <div className={styles.sbname}>
               <h3>BSEB</h3>
@@ -279,33 +287,33 @@ export default function Home() {
           </div>
           <div className={styles.sbs}>
             <div className={styles.sblogo}>
-              <img src="/logo.svg" alt="" />
+              <img src="/BSEB-logo.png" alt="" />
             </div>
             <div className={styles.sbname}>
               <h3>BSEB</h3>
             </div>
           </div>
         </div>
-        <Link href="/entranceexam"><div className={styles.morebtn}>
-          <h2>load more..</h2></div>
-          </Link>
-
-
-
+        <Link href="/entranceexam">
+          <div className={styles.morebtn}>
+            <h2>load more..</h2>
+          </div>
+        </Link>
       </main>
 
       <footer className={styles.footer}>
-        <a
-          href=""
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Powered by{' '}
+        <a href="" target="_blank" rel="noopener noreferrer">
+          Powered by{" "}
           <span className={styles.logo}>
-            <Image src="/questionspaper.svg" alt="qp Logo" width={100} height={16} />
+            <Image
+              src="/questionspaper.svg"
+              alt="qp Logo"
+              width={100}
+              height={16}
+            />
           </span>
         </a>
       </footer>
     </div>
-  )
+  );
 }

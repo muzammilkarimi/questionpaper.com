@@ -1,6 +1,7 @@
 import React from "react";
 import Head from "next/head";
-import styles from '../styles/Home.module.css'
+import Link from "next/link";
+import styles from "../styles/state.module.css";
 const stateboards = () => {
   return (
     <>
@@ -10,8 +11,17 @@ const stateboards = () => {
         <link rel="icon" href="/logo.svg" />
       </Head>
       <main className={styles.main}>
-      
         <div className={styles.stateboard}>
+          <Link href="/state/BSEB (Bihar School Examination Board), Patna">
+            <div className={styles.sbs}>
+              <div className={styles.sblogo}>
+                <img src="/BSEB-logo.png" alt="" />
+              </div>
+              <div className={styles.sbname}>
+                <h3>BSEB</h3>
+              </div>
+            </div>
+          </Link>
           <div className={styles.sbs}>
             <div className={styles.sblogo}>
               <img src="/logo.svg" alt="" />
@@ -180,48 +190,8 @@ const stateboards = () => {
               <h3>BSEB</h3>
             </div>
           </div>
-          <div className={styles.sbs}>
-            <div className={styles.sblogo}>
-              <img src="/logo.svg" alt="" />
-            </div>
-            <div className={styles.sbname}>
-              <h3>BSEB</h3>
-            </div>
-          </div>
-          <div className={styles.sbs}>
-            <div className={styles.sblogo}>
-              <img src="/logo.svg" alt="" />
-            </div>
-            <div className={styles.sbname}>
-              <h3>BSEB</h3>
-            </div>
-          </div>
-          <div className={styles.sbs}>
-            <div className={styles.sblogo}>
-              <img src="/logo.svg" alt="" />
-            </div>
-            <div className={styles.sbname}>
-              <h3>BSEB</h3>
-            </div>
-          </div>
-          <div className={styles.sbs}>
-            <div className={styles.sblogo}>
-              <img src="/logo.svg" alt="" />
-            </div>
-            <div className={styles.sbname}>
-              <h3>BSEB</h3>
-            </div>
-          </div>
-          <div className={styles.sbs}>
-            <div className={styles.sblogo}>
-              <img src="/logo.svg" alt="" />
-            </div>
-            <div className={styles.sbname}>
-              <h3>BSEB</h3>
-            </div>
-          </div>
-          </div>
-          </main>
+        </div>
+      </main>
     </>
   );
 };
