@@ -24,7 +24,7 @@ const stateboards = () => {
           </Link>
           <div className={styles.sbs}>
             <div className={styles.sblogo}>
-              <img src="/logo.svg" alt="" />
+              <img src="BSEB-logo.png" alt="" />
             </div>
             <div className={styles.sbname}>
               <h3>BSEB</h3>
@@ -32,7 +32,7 @@ const stateboards = () => {
           </div>
           <div className={styles.sbs}>
             <div className={styles.sblogo}>
-              <img src="/logo.svg" alt="" />
+              <img src="BSEB-logo.png" alt="" />
             </div>
             <div className={styles.sbname}>
               <h3>BSEB</h3>
@@ -40,7 +40,7 @@ const stateboards = () => {
           </div>
           <div className={styles.sbs}>
             <div className={styles.sblogo}>
-              <img src="/logo.svg" alt="" />
+              <img src="BSEB-logo.png" alt="" />
             </div>
             <div className={styles.sbname}>
               <h3>BSEB</h3>
@@ -48,7 +48,7 @@ const stateboards = () => {
           </div>
           <div className={styles.sbs}>
             <div className={styles.sblogo}>
-              <img src="/logo.svg" alt="" />
+              <img src="BSEB-logo.png" alt="" />
             </div>
             <div className={styles.sbname}>
               <h3>BSEB</h3>
@@ -56,7 +56,7 @@ const stateboards = () => {
           </div>
           <div className={styles.sbs}>
             <div className={styles.sblogo}>
-              <img src="/logo.svg" alt="" />
+              <img src="BSEB-logo.png" alt="" />
             </div>
             <div className={styles.sbname}>
               <h3>BSEB</h3>
@@ -64,7 +64,7 @@ const stateboards = () => {
           </div>
           <div className={styles.sbs}>
             <div className={styles.sblogo}>
-              <img src="/logo.svg" alt="" />
+              <img src="BSEB-logo.png" alt="" />
             </div>
             <div className={styles.sbname}>
               <h3>BSEB</h3>
@@ -72,7 +72,7 @@ const stateboards = () => {
           </div>
           <div className={styles.sbs}>
             <div className={styles.sblogo}>
-              <img src="/logo.svg" alt="" />
+              <img src="BSEB-logo.png" alt="" />
             </div>
             <div className={styles.sbname}>
               <h3>BSEB</h3>
@@ -80,7 +80,7 @@ const stateboards = () => {
           </div>
           <div className={styles.sbs}>
             <div className={styles.sblogo}>
-              <img src="/logo.svg" alt="" />
+              <img src="BSEB-logo.png" alt="" />
             </div>
             <div className={styles.sbname}>
               <h3>BSEB</h3>
@@ -88,7 +88,7 @@ const stateboards = () => {
           </div>
           <div className={styles.sbs}>
             <div className={styles.sblogo}>
-              <img src="/logo.svg" alt="" />
+              <img src="BSEB-logo.png" alt="" />
             </div>
             <div className={styles.sbname}>
               <h3>BSEB</h3>
@@ -96,7 +96,7 @@ const stateboards = () => {
           </div>
           <div className={styles.sbs}>
             <div className={styles.sblogo}>
-              <img src="/logo.svg" alt="" />
+              <img src="BSEB-logo.png" alt="" />
             </div>
             <div className={styles.sbname}>
               <h3>BSEB</h3>
@@ -104,7 +104,7 @@ const stateboards = () => {
           </div>
           <div className={styles.sbs}>
             <div className={styles.sblogo}>
-              <img src="/logo.svg" alt="" />
+              <img src="BSEB-logo.png" alt="" />
             </div>
             <div className={styles.sbname}>
               <h3>BSEB</h3>
@@ -112,7 +112,7 @@ const stateboards = () => {
           </div>
           <div className={styles.sbs}>
             <div className={styles.sblogo}>
-              <img src="/logo.svg" alt="" />
+              <img src="BSEB-logo.png" alt="" />
             </div>
             <div className={styles.sbname}>
               <h3>BSEB</h3>
@@ -120,7 +120,7 @@ const stateboards = () => {
           </div>
           <div className={styles.sbs}>
             <div className={styles.sblogo}>
-              <img src="/logo.svg" alt="" />
+              <img src="BSEB-logo.png" alt="" />
             </div>
             <div className={styles.sbname}>
               <h3>BSEB</h3>
@@ -128,7 +128,7 @@ const stateboards = () => {
           </div>
           <div className={styles.sbs}>
             <div className={styles.sblogo}>
-              <img src="/logo.svg" alt="" />
+              <img src="BSEB-logo.png" alt="" />
             </div>
             <div className={styles.sbname}>
               <h3>BSEB</h3>
@@ -136,7 +136,7 @@ const stateboards = () => {
           </div>
           <div className={styles.sbs}>
             <div className={styles.sblogo}>
-              <img src="/logo.svg" alt="" />
+              <img src="BSEB-logo.png" alt="" />
             </div>
             <div className={styles.sbname}>
               <h3>BSEB</h3>
@@ -144,7 +144,7 @@ const stateboards = () => {
           </div>
           <div className={styles.sbs}>
             <div className={styles.sblogo}>
-              <img src="/logo.svg" alt="" />
+              <img src="BSEB-logo.png" alt="" />
             </div>
             <div className={styles.sbname}>
               <h3>BSEB</h3>
@@ -152,7 +152,7 @@ const stateboards = () => {
           </div>
           <div className={styles.sbs}>
             <div className={styles.sblogo}>
-              <img src="/logo.svg" alt="" />
+              <img src="BSEB-logo.png" alt="" />
             </div>
             <div className={styles.sbname}>
               <h3>BSEB</h3>
@@ -160,7 +160,7 @@ const stateboards = () => {
           </div>
           <div className={styles.sbs}>
             <div className={styles.sblogo}>
-              <img src="/logo.svg" alt="" />
+              <img src="BSEB-logo.png" alt="" />
             </div>
             <div className={styles.sbname}>
               <h3>BSEB</h3>
@@ -168,7 +168,7 @@ const stateboards = () => {
           </div>
           <div className={styles.sbs}>
             <div className={styles.sblogo}>
-              <img src="/logo.svg" alt="" />
+              <img src="BSEB-logo.png" alt="" />
             </div>
             <div className={styles.sbname}>
               <h3>BSEB</h3>
@@ -176,7 +176,7 @@ const stateboards = () => {
           </div>
           <div className={styles.sbs}>
             <div className={styles.sblogo}>
-              <img src="/logo.svg" alt="" />
+              <img src="BSEB-logo.png" alt="" />
             </div>
             <div className={styles.sbname}>
               <h3>BSEB</h3>
@@ -184,7 +184,7 @@ const stateboards = () => {
           </div>
           <div className={styles.sbs}>
             <div className={styles.sblogo}>
-              <img src="/logo.svg" alt="" />
+              <img src="BSEB-logo.png" alt="" />
             </div>
             <div className={styles.sbname}>
               <h3>BSEB</h3>

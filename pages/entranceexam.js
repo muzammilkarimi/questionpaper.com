@@ -13,82 +13,82 @@ const entranceexam = () => {
         <div className={styles.stateboard}>
           <div className={styles.sbs}>
             <div className={styles.sblogo}>
-              <img src="/logo.svg" alt="" />
+              <img src="/JEE.webp" alt="" />
             </div>
             <div className={styles.sbname}>
-              <h3>BSEB</h3>
+              <h3>JEE</h3>
             </div>
           </div>
           <div className={styles.sbs}>
             <div className={styles.sblogo}>
-              <img src="/logo.svg" alt="" />
+              <img src="/JEE.webp" alt="" />
             </div>
             <div className={styles.sbname}>
-              <h3>BSEB</h3>
+              <h3>JEE</h3>
             </div>
           </div>
           <div className={styles.sbs}>
             <div className={styles.sblogo}>
-              <img src="/logo.svg" alt="" />
+              <img src="/JEE.webp" alt="" />
             </div>
             <div className={styles.sbname}>
-              <h3>BSEB</h3>
+              <h3>JEE</h3>
             </div>
           </div>
           <div className={styles.sbs}>
             <div className={styles.sblogo}>
-              <img src="/logo.svg" alt="" />
+              <img src="/JEE.webp" alt="" />
             </div>
             <div className={styles.sbname}>
-              <h3>BSEB</h3>
+              <h3>JEE</h3>
             </div>
           </div>
           <div className={styles.sbs}>
             <div className={styles.sblogo}>
-              <img src="/logo.svg" alt="" />
+              <img src="/JEE.webp" alt="" />
             </div>
             <div className={styles.sbname}>
-              <h3>BSEB</h3>
+              <h3>JEE</h3>
             </div>
           </div>
           <div className={styles.sbs}>
             <div className={styles.sblogo}>
-              <img src="/logo.svg" alt="" />
+              <img src="/JEE.webp" alt="" />
             </div>
             <div className={styles.sbname}>
-              <h3>BSEB</h3>
+              <h3>JEE</h3>
             </div>
           </div>
           <div className={styles.sbs}>
             <div className={styles.sblogo}>
-              <img src="/logo.svg" alt="" />
+              <img src="/JEE.webp" alt="" />
             </div>
             <div className={styles.sbname}>
-              <h3>BSEB</h3>
+              <h3>JEE</h3>
             </div>
           </div>
           <div className={styles.sbs}>
             <div className={styles.sblogo}>
-              <img src="/logo.svg" alt="" />
+              <img src="/JEE.webp" alt="" />
             </div>
             <div className={styles.sbname}>
-              <h3>BSEB</h3>
+              <h3>JEE</h3>
             </div>
           </div>
           <div className={styles.sbs}>
             <div className={styles.sblogo}>
-              <img src="/logo.svg" alt="" />
+              <img src="/JEE.webp" alt="" />
             </div>
             <div className={styles.sbname}>
-              <h3>BSEB</h3>
+              <h3>JEE</h3>
             </div>
           </div>
           <div className={styles.sbs}>
             <div className={styles.sblogo}>
-              <img src="/logo.svg" alt="" />
+              <img src="/JEE.webp" alt="" />
             </div>
             <div className={styles.sbname}>
-              <h3>BSEB</h3>
+              <h3>JEE</h3>
             </div>
           </div>
           </div>

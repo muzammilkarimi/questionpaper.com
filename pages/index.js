@@ -127,7 +127,15 @@ export default function Home() {
         <div className={styles.stateboard}>
           <div className={styles.sbs}>
             <div className={styles.sblogo}>
-              <img src="/BSEB-logo.png" alt="" />
+              <img src="/velsuniv.png" alt="" />
+            </div>
+            <div className={styles.sbname}>
+              <h3>Vels University</h3>
+            </div>
+          </div>
+          <div className={styles.sbs}>
+            <div className={styles.sblogo}>
+              <img src="/velsuniv.png" alt="" />
             </div>
             <div className={styles.sbname}>
               <h3>BSEB</h3>
@@ -135,7 +143,7 @@ export default function Home() {
           </div>
           <div className={styles.sbs}>
             <div className={styles.sblogo}>
-              <img src="/BSEB-logo.png" alt="" />
+              <img src="/velsuniv.png" alt="" />
             </div>
             <div className={styles.sbname}>
               <h3>BSEB</h3>
@@ -143,7 +151,7 @@ export default function Home() {
           </div>
           <div className={styles.sbs}>
             <div className={styles.sblogo}>
-              <img src="/BSEB-logo.png" alt="" />
+              <img src="/velsuniv.png" alt="" />
             </div>
             <div className={styles.sbname}>
               <h3>BSEB</h3>
@@ -151,7 +159,7 @@ export default function Home() {
           </div>
           <div className={styles.sbs}>
             <div className={styles.sblogo}>
-              <img src="/BSEB-logo.png" alt="" />
+              <img src="/velsuniv.png" alt="" />
             </div>
             <div className={styles.sbname}>
               <h3>BSEB</h3>
@@ -159,7 +167,7 @@ export default function Home() {
           </div>
           <div className={styles.sbs}>
             <div className={styles.sblogo}>
-              <img src="/BSEB-logo.png" alt="" />
+              <img src="/velsuniv.png" alt="" />
             </div>
             <div className={styles.sbname}>
               <h3>BSEB</h3>
@@ -167,7 +175,7 @@ export default function Home() {
           </div>
           <div className={styles.sbs}>
             <div className={styles.sblogo}>
-              <img src="/BSEB-logo.png" alt="" />
+              <img src="/velsuniv.png" alt="" />
             </div>
             <div className={styles.sbname}>
               <h3>BSEB</h3>
@@ -175,7 +183,7 @@ export default function Home() {
           </div>
           <div className={styles.sbs}>
             <div className={styles.sblogo}>
-              <img src="/BSEB-logo.png" alt="" />
+              <img src="/velsuniv.png" alt="" />
             </div>
             <div className={styles.sbname}>
               <h3>BSEB</h3>
@@ -183,7 +191,7 @@ export default function Home() {
           </div>
           <div className={styles.sbs}>
             <div className={styles.sblogo}>
-              <img src="/BSEB-logo.png" alt="" />
+              <img src="/velsuniv.png" alt="" />
             </div>
             <div className={styles.sbname}>
               <h3>BSEB</h3>
@@ -191,15 +199,7 @@ export default function Home() {
           </div>
           <div className={styles.sbs}>
             <div className={styles.sblogo}>
-              <img src="/BSEB-logo.png" alt="" />
-            </div>
-            <div className={styles.sbname}>
-              <h3>BSEB</h3>
-            </div>
-          </div>
-          <div className={styles.sbs}>
-            <div className={styles.sblogo}>
-              <img src="/BSEB-logo.png" alt="" />
+              <img src="/velsuniv.png" alt="" />
             </div>
             <div className={styles.sbname}>
               <h3>BSEB</h3>
@@ -215,7 +215,15 @@ export default function Home() {
         <div className={styles.stateboard}>
           <div className={styles.sbs}>
             <div className={styles.sblogo}>
-              <img src="/BSEB-logo.png" alt="" />
+              <img src="/JEE.webp" alt="" />
+            </div>
+            <div className={styles.sbname}>
+              <h3>JEE</h3>
+            </div>
+          </div>
+          <div className={styles.sbs}>
+            <div className={styles.sblogo}>
+            <img src="/JEE.webp" alt="" />
             </div>
             <div className={styles.sbname}>
               <h3>BSEB</h3>
@@ -223,7 +231,7 @@ export default function Home() {
           </div>
           <div className={styles.sbs}>
             <div className={styles.sblogo}>
-              <img src="/BSEB-logo.png" alt="" />
+            <img src="/JEE.webp" alt="" />
             </div>
             <div className={styles.sbname}>
               <h3>BSEB</h3>
@@ -231,7 +239,7 @@ export default function Home() {
           </div>
           <div className={styles.sbs}>
             <div className={styles.sblogo}>
-              <img src="/BSEB-logo.png" alt="" />
+            <img src="/JEE.webp" alt="" />
             </div>
             <div className={styles.sbname}>
               <h3>BSEB</h3>
@@ -239,7 +247,7 @@ export default function Home() {
           </div>
           <div className={styles.sbs}>
             <div className={styles.sblogo}>
-              <img src="/BSEB-logo.png" alt="" />
+            <img src="/JEE.webp" alt="" />
             </div>
             <div className={styles.sbname}>
               <h3>BSEB</h3>
@@ -247,7 +255,7 @@ export default function Home() {
           </div>
           <div className={styles.sbs}>
             <div className={styles.sblogo}>
-              <img src="/BSEB-logo.png" alt="" />
+            <img src="/JEE.webp" alt="" />
             </div>
             <div className={styles.sbname}>
               <h3>BSEB</h3>
@@ -255,7 +263,7 @@ export default function Home() {
           </div>
           <div className={styles.sbs}>
             <div className={styles.sblogo}>
-              <img src="/BSEB-logo.png" alt="" />
+            <img src="/JEE.webp" alt="" />
             </div>
             <div className={styles.sbname}>
               <h3>BSEB</h3>
@@ -263,7 +271,7 @@ export default function Home() {
           </div>
           <div className={styles.sbs}>
             <div className={styles.sblogo}>
-              <img src="/BSEB-logo.png" alt="" />
+            <img src="/JEE.webp" alt="" />
             </div>
             <div className={styles.sbname}>
               <h3>BSEB</h3>
@@ -271,7 +279,7 @@ export default function Home() {
           </div>
           <div className={styles.sbs}>
             <div className={styles.sblogo}>
-              <img src="/BSEB-logo.png" alt="" />
+            <img src="/JEE.webp" alt="" />
             </div>
             <div className={styles.sbname}>
               <h3>BSEB</h3>
@@ -279,15 +287,7 @@ export default function Home() {
           </div>
           <div className={styles.sbs}>
             <div className={styles.sblogo}>
-              <img src="/BSEB-logo.png" alt="" />
-            </div>
-            <div className={styles.sbname}>
-              <h3>BSEB</h3>
-            </div>
-          </div>
-          <div className={styles.sbs}>
-            <div className={styles.sblogo}>
-              <img src="/BSEB-logo.png" alt="" />
+            <img src="/JEE.webp" alt="" />
             </div>
             <div className={styles.sbname}>
               <h3>BSEB</h3>

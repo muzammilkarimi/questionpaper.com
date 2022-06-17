@@ -14,82 +14,82 @@ const universities = () => {
         <div className={styles.stateboard}>
           <div className={styles.sbs}>
             <div className={styles.sblogo}>
-              <img src="/logo.svg" alt="" />
+              <img src="/velsuniv.png" alt="" />
             </div>
             <div className={styles.sbname}>
-              <h3>BSEB</h3>
+              <h3>Vels University</h3>
             </div>
           </div>
           <div className={styles.sbs}>
             <div className={styles.sblogo}>
-              <img src="/logo.svg" alt="" />
+              <img src="/velsuniv.png" alt="" />
             </div>
             <div className={styles.sbname}>
-              <h3>BSEB</h3>
+              <h3>Vels University</h3>
             </div>
           </div>
           <div className={styles.sbs}>
             <div className={styles.sblogo}>
-              <img src="/logo.svg" alt="" />
+              <img src="/velsuniv.png" alt="" />
             </div>
             <div className={styles.sbname}>
-              <h3>BSEB</h3>
+              <h3>Vels University</h3>
             </div>
           </div>
           <div className={styles.sbs}>
             <div className={styles.sblogo}>
-              <img src="/logo.svg" alt="" />
+              <img src="/velsuniv.png" alt="" />
             </div>
             <div className={styles.sbname}>
-              <h3>BSEB</h3>
+              <h3>Vels University</h3>
             </div>
           </div>
           <div className={styles.sbs}>
             <div className={styles.sblogo}>
-              <img src="/logo.svg" alt="" />
+              <img src="/velsuniv.png" alt="" />
             </div>
             <div className={styles.sbname}>
-              <h3>BSEB</h3>
+              <h3>Vels University</h3>
             </div>
           </div>
           <div className={styles.sbs}>
             <div className={styles.sblogo}>
-              <img src="/logo.svg" alt="" />
+              <img src="/velsuniv.png" alt="" />
             </div>
             <div className={styles.sbname}>
-              <h3>BSEB</h3>
+              <h3>Vels University</h3>
             </div>
           </div>
           <div className={styles.sbs}>
             <div className={styles.sblogo}>
-              <img src="/logo.svg" alt="" />
+              <img src="/velsuniv.png" alt="" />
             </div>
             <div className={styles.sbname}>
-              <h3>BSEB</h3>
+              <h3>Vels University</h3>
             </div>
           </div>
           <div className={styles.sbs}>
             <div className={styles.sblogo}>
-              <img src="/logo.svg" alt="" />
+              <img src="/velsuniv.png" alt="" />
             </div>
             <div className={styles.sbname}>
-              <h3>BSEB</h3>
+              <h3>Vels University</h3>
             </div>
           </div>
           <div className={styles.sbs}>
             <div className={styles.sblogo}>
-              <img src="/logo.svg" alt="" />
+              <img src="/velsuniv.png" alt="" />
             </div>
             <div className={styles.sbname}>
-              <h3>BSEB</h3>
+              <h3>Vels University</h3>
             </div>
           </div>
           <div className={styles.sbs}>
             <div className={styles.sblogo}>
-              <img src="/logo.svg" alt="" />
+              <img src="/velsuniv.png" alt="" />
             </div>
             <div className={styles.sbname}>
-              <h3>BSEB</h3>
+              <h3>Vels University</h3>
             </div>
           </div>
           </div>
