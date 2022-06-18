@@ -29,7 +29,7 @@ export default function Home() {
               </p>
             </div>
             <div className={styles.coverimg}>
-              <img src="/coverimg2.svg" alt="" />
+              <img src="/cover.gif" alt="" />
             </div>
           </div>
         </div>
