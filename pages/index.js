@@ -35,7 +35,7 @@ export default function Home() {
         </div>
         <h1 className={styles.heading}>STATE BOARDS</h1>
         <div className={styles.stateboard}>
-          <Link href="/state/BSEB Bihar School Examination Board, Patna">
+          <Link href="/States/bsebhome">
             <div className={styles.sbs}>
               <div className={styles.sblogo}>
                 <img src="/BSEB-logo.png" alt="" />
