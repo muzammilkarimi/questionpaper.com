@@ -1,15 +1,17 @@
 /* :root {
   --primary-color: #FF914D;
 } */
+
 .container {
   padding: 0 2rem;
 }
 .heading {
   margin: 70px 0px;
 }
+
 .main {
   min-height: 100vh;
-  padding: 5rem 0;
+  padding: 8rem 0;
   flex: 1;
   display: flex;
   flex-direction: column;
@@ -84,7 +86,7 @@
   margin: 5px 30px;
   color: #22222e;
   border-bottom: 2px solid #e2e1df;
-  transition: .7s;
+  transition: 0.7s;
 }
 .mainnav ul li:hover {
   border-bottom: 2px solid #ff914d;
@@ -97,7 +99,34 @@
   display: flex;
   justify-content: space-evenly;
   align-items: center;
-
+  position: fixed;
+  width: 100%;
+  background-color: #e2e1df;
+  box-shadow: 10px 1px 7px -2px black;
+}
+.hrt {
+  width: 10%;
+  border: none;
+  background-color: rgb(197, 197, 197);
+  height: 1px;
+  margin-top: 35px;
+}
+.mainnavhide {
+  display: none;
+}
+.scrollnav {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  position: fixed;
+  width: 100%;
+  background-color: #e2e1df;
+}
+.scrollnavhide {
+  display: none;
+}
+.menuicon img {
+  width: 75px;
 }
 .navlogo img {
   height: 50px;
@@ -108,6 +137,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
+  cursor: pointer;
 }
 .navlogo h3 {
   color: #22222e;

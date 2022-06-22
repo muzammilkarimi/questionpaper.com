@@ -24,8 +24,8 @@ export default function Home() {
             <div className={styles.headtext}>
               <h1>We Provide </h1>
               <p>
-                State Boards, Universities and Entrance Exams Previous Years
-                Questions papers with Answers.
+                Subjects Wise Notes, State Boards, Universities and Entrance Exams Previous Years
+                Question Papers with Answers.
               </p>
             </div>
             <div className={styles.coverimg}>
@@ -120,9 +120,10 @@ export default function Home() {
         </div>
         <Link href="/stateboards">
           <div className={styles.morebtn}>
-            <h2>load more..</h2>
+            <h2>load more</h2>
           </div>
         </Link>
+        <hr className={styles.hrt} />
         <h1 className={styles.heading}>UNIVERSITIES</h1>
         <div className={styles.stateboard}>
           <div className={styles.sbs}>
@@ -208,9 +209,10 @@ export default function Home() {
         </div>
         <Link href="/universities">
           <div className={styles.morebtn}>
-            <h2>load more..</h2>
+            <h2>load more</h2>
           </div>
         </Link>
+        <hr className={styles.hrt} />
         <h1 className={styles.heading}>ENTRANCE EXAMS</h1>
         <div className={styles.stateboard}>
           <div className={styles.sbs}>
@@ -296,9 +298,10 @@ export default function Home() {
         </div>
         <Link href="/entranceexam">
           <div className={styles.morebtn}>
-            <h2>load more..</h2>
+            <h2>load more</h2>
           </div>
         </Link>
+        <hr className={styles.hrt} />
       </main>
 
       <footer className={styles.footer}>

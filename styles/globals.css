@@ -7,7 +7,26 @@ body {
   background: #E2E1DF;
   ;
 }
+/* width */
+::-webkit-scrollbar {
+  width: 10px;
+}
 
+/* Track */
+::-webkit-scrollbar-track {
+  background: #E2E1DF;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #FF914D;
+  border-radius: 20px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #a15d32;
+}
 a {
   color: inherit;
   text-decoration: none;
