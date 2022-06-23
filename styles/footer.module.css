@@ -1,0 +1,80 @@
+/* :root {
+  --primary-color: #FF914D;
+} */
+.footer {
+  background-color:#ff914d;
+  height: 700px;
+}
+.main {
+  
+  display: flex;
+  justify-content: space-evenly;
+  padding: 40px 80px;
+}
+.list li {
+  list-style: none;
+  padding: 6px 3px;
+  color: #22222e;
+  font-size: larger;
+}
+.list ul {
+  display: flex;
+  flex-direction: column;
+  margin-top: 50px;
+  padding: 0;
+}
+.list li a {
+  cursor: pointer;
+}
+.hrt {
+  width: 80%;
+  border: none;
+  background-color: #22222e;
+  height: 1px;
+  /* margin-top: 35px; */
+}
+.linkssec{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 20px;
+}
+.links ul{
+    display: flex;
+    padding: 0px;
+}
+.links{
+    width: 61%;
+}
+.links ul li{
+    list-style: none;
+    font-weight: bold;
+    color: #22222e;
+    padding: 0px 10px;
+    font-size: larger;
+}
+.socialm{
+    display: flex;
+    width: 300px;
+    justify-content: space-evenly;
+}
+.smlogo{
+    width: 40px;
+    height: 40px;
+    
+}
+.smlogo img{
+    width: 40px;
+    height: 40px;
+    margin: 0px 15px;
+}
+.copyright{
+    color: #22222e;
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 15px;
+}
+.para{
+    width: 49%;
+    font-weight: lighter;
+}

@@ -29,7 +29,7 @@ const navbar = () => {
           </Link>
           <Link href="/stateboards">
             <li>
-              <a>State Boards</a>
+              <a>Boards</a>
             </li>
           </Link>
           <Link href="/universities">
@@ -39,7 +39,7 @@ const navbar = () => {
           </Link>
           <Link href="/entranceexam">
             <li>
-              <a>Entrance Exams</a>
+              <a>Exams</a>
             </li>
           </Link>
           <Link href="/notes">

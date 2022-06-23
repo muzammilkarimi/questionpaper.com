@@ -24,26 +24,26 @@ const stateboards = () => {
           </Link>
           <div className={styles.sbs}>
             <div className={styles.sblogo}>
-              <img src="BSEB-logo.png" alt="" />
+              <img src="Jharkhand_Academic_Council.png" alt="" />
             </div>
             <div className={styles.sbname}>
-              <h3>BSEB</h3>
+              <h3>JAC</h3>
             </div>
           </div>
           <div className={styles.sbs}>
             <div className={styles.sblogo}>
-              <img src="BSEB-logo.png" alt="" />
+              <img src="CBSE.jpg" alt="" />
             </div>
             <div className={styles.sbname}>
-              <h3>BSEB</h3>
+              <h3>CBSE</h3>
             </div>
           </div>
           <div className={styles.sbs}>
             <div className={styles.sblogo}>
-              <img src="BSEB-logo.png" alt="" />
+              <img src="Andhra-State.png" alt="" />
             </div>
             <div className={styles.sbname}>
-              <h3>BSEB</h3>
+              <h3>APBE</h3>
             </div>
           </div>
           <div className={styles.sbs}>

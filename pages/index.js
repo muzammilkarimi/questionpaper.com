@@ -33,7 +33,7 @@ export default function Home() {
             </div>
           </div>
         </div>
-        <h1 className={styles.heading}>STATE BOARDS</h1>
+        <h1 className={styles.heading}>BOARDS</h1>
         <div className={styles.stateboard}>
           <Link href="/States/bsebhome">
             <div className={styles.sbs}>
@@ -47,10 +47,10 @@ export default function Home() {
           </Link>
           <div className={styles.sbs}>
             <div className={styles.sblogo}>
-              <img src="/BSEB-logo.png" alt="" />
+              <img src="/Jharkhand_Academic_Council.png" alt="" />
             </div>
             <div className={styles.sbname}>
-              <h3>BSEB</h3>
+              <h3>JAC</h3>
             </div>
           </div>
           <div className={styles.sbs}>
@@ -213,7 +213,7 @@ export default function Home() {
           </div>
         </Link>
         <hr className={styles.hrt} />
-        <h1 className={styles.heading}>ENTRANCE EXAMS</h1>
+        <h1 className={styles.heading}>EXAMS</h1>
         <div className={styles.stateboard}>
           <div className={styles.sbs}>
             <div className={styles.sblogo}>
@@ -304,19 +304,7 @@ export default function Home() {
         <hr className={styles.hrt} />
       </main>
 
-      <footer className={styles.footer}>
-        <a href="" target="_blank" rel="noopener noreferrer">
-          Powered by{" "}
-          <span className={styles.logo}>
-            <Image
-              src="/questionspaper.svg"
-              alt="qp Logo"
-              width={100}
-              height={16}
-            />
-          </span>
-        </a>
-      </footer>
+      
     </div>
   );
 }

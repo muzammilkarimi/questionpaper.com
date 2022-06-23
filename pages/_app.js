@@ -1,12 +1,14 @@
-import '../styles/globals.css'
-import { Scrollbars } from 'react-custom-scrollbars';
-import Navbar from '../components/navbar'
+import "../styles/globals.css";
+import Navbar from "../components/navbar";
+import Footer from "../components/footer";
 function MyApp({ Component, pageProps }) {
-  return <>
-  {/* <Scrollbars style={{ width: 500, height: 300 }}></Scrollbars> */}
-  <Navbar/>
-  <Component {...pageProps} />
-  </>
+  return (
+    <>
+      <Navbar />
+      <Component {...pageProps} />
+      <Footer />
+    </>
+  );
 }
 
-export default MyApp
+export default MyApp;
